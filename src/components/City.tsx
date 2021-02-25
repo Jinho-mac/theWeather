@@ -21,7 +21,7 @@ const Container = styled.div`
 `;
 
 const ImgContainer = styled.div`
-  width: 7rem;
+  width: 100%;
   height: 7rem;
   position: relative;
   margin: auto;

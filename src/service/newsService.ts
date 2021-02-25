@@ -7,7 +7,7 @@ class NewsService {
       method: 'GET',
       url: 'https://newsapi.org/v2/everything',
       params: {
-        apiKey: '049f1a885ae84e8fa57700f460c6121a',
+        apiKey: '64e3b3ef0829493e93977014ce8e1c64',
         q: '날씨',
         sortBy: 'publishedAt'
       }
