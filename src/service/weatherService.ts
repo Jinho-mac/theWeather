@@ -7,7 +7,7 @@ class WeatherService {
       method: 'GET',
       url: 'https://api.openweathermap.org/data/2.5/onecall',
       params: {
-        appid: '412711e32c9297128b2abf67390048d1',
+        appid: '4989b7b7a564c39d2fd7e03e1cc87ccf',
         lat,
         lon,
         units: 'metric',
